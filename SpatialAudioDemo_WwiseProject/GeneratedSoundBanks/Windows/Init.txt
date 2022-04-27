@@ -1,0 +1,47 @@
+State Group	ID	Name			Wwise Object Path	Notes
+	1587780465	Guy_1_Talking			\Default Work Unit\Guy_1_Talking	
+
+State	ID	Name	State Group			Notes
+	4642798	Player_Left	Guy_1_Talking			
+	748895195	None	Guy_1_Talking			
+	3717807387	Player_Leaving	Guy_1_Talking			
+	3783004065	Player_Arriving	Guy_1_Talking			
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	504532776	Brick			\Factory Acoustic Textures\Textures\Brick	
+	513139656	Mountain			\Factory Acoustic Textures\Textures\Mountain	
+	841620460	Concrete			\Factory Acoustic Textures\Textures\Concrete	
+	1755085759	Wood_Deep			\Factory Acoustic Textures\Textures\Wood_Deep	
+	1873957695	Anechoic			\Factory Acoustic Textures\Textures\Anechoic	
+	1970351858	Fabric			\Factory Acoustic Textures\Textures\Fabric	
+	2058049674	Wood			\Factory Acoustic Textures\Textures\Wood	
+	2412606308	Carpet			\Factory Acoustic Textures\Textures\Carpet	
+	2637588553	Tile			\Factory Acoustic Textures\Textures\Tile	
+	2928161104	Curtains			\Factory Acoustic Textures\Textures\Curtains	
+	3195498748	Cork_Tiles			\Factory Acoustic Textures\Textures\Cork_Tiles	
+	3670307564	Drywall			\Factory Acoustic Textures\Textures\Drywall	
+	4168643977	Acoustic_Banner			\Factory Acoustic Textures\Textures\Acoustic_Banner	
+	4262522749	Wood_Bright			\Factory Acoustic Textures\Textures\Wood_Bright	
+
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	985987111	Motion Factory Bus			\Default Work Unit\Motion Factory Bus	
+	1041286025	Guys			\Default Work Unit\Master Audio Bus\Guys	
+	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+	4083419649	Player_Sounds			\Default Work Unit\Master Audio Bus\Player_Sounds	
+
+Auxiliary Bus	ID	Name			Wwise Object Path	Notes
+	438105790	Outside			\Default Work Unit\Master Audio Bus\Outside	
+	1359360203	Rooms			\Default Work Unit\Master Audio Bus\Rooms	
+	1819748220	ER			\Default Work Unit\Master Audio Bus\ER	
+	2192450996	Hangar			\Default Work Unit\Master Audio Bus\Rooms\Hangar	
+	2535232994	Workshop			\Default Work Unit\Master Audio Bus\Rooms\Workshop	
+
+Effect plug-ins	ID	Name	Type				Notes
+	415841907	Space_Garage	Wwise RoomVerb			
+	847711044	Room_Medium (Custom)	Wwise RoomVerb			
+	3900114836	Metal_Hangar	Wwise RoomVerb			
+
+Audio Devices	ID	Name	Type				Notes
+	2317455096	No_Output	No Output			
+	3859886410	System	System			
+

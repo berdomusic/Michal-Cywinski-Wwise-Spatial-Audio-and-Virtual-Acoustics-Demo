@@ -1,0 +1,41 @@
+Event	ID	Name			Wwise Object Path	Notes
+	68366202	Play_1_BlahBlah			\Default Work Unit\Main\Play_1_BlahBlah	
+	678554439	Stop_Sine			\Default Work Unit\Main\Stop_Sine	
+	1369522227	Play_2_BlahBlah			\Default Work Unit\Main\Play_2_BlahBlah	
+	2693257580	Play_Whistle			\Default Work Unit\Main\Play_Whistle	
+	3785725400	Play_Clap			\Default Work Unit\Main\Play_Clap	
+	4010112737	Play_Sine			\Default Work Unit\Main\Play_Sine	
+	4255827669	Play_Clang			\Default Work Unit\Main\Play_Clang	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	2062604604	PlayerTestSoundsVolume			\Default Work Unit\PlayerTestSoundsVolume	
+	2616111739	GuysTalkingVolume			\Default Work Unit\GuysTalkingVolume	
+	3086214804	SineFrequency			\Default Work Unit\SineFrequency	
+
+Source plug-ins	ID	Name	Type		Wwise Object Path	Notes
+	336191377	Wwise Sine	Wwise Sine		\Actor-Mixer Hierarchy\Default Work Unit\World\Player\Test_Sounds\Sine\Wwise Sine	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	16872044	Whistle	C:\Projekty Unity\Michal-Cywinski-WwiseSpatialAudioDemo\SpatialAudioDemo_WwiseProject\.cache\Windows\SFX\Whistle_1DDA1C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Player\Test_Sounds\Whistle		53596
+	36716979	BlahBlah10	C:\Projekty Unity\Michal-Cywinski-WwiseSpatialAudioDemo\SpatialAudioDemo_WwiseProject\.cache\Windows\SFX\BlahBlah10_1DDA1C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Guys\Talking\Guy2\2_BlahBlah\BlahBlah10		450508
+	41689428	Clap	C:\Projekty Unity\Michal-Cywinski-WwiseSpatialAudioDemo\SpatialAudioDemo_WwiseProject\.cache\Windows\SFX\Clap_1DDA1C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Player\Test_Sounds\Clap		46284
+	85203138	BlahBlah8_01	C:\Projekty Unity\Michal-Cywinski-WwiseSpatialAudioDemo\SpatialAudioDemo_WwiseProject\.cache\Windows\SFX\BlahBlah8_DF374631.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Guys\Talking\Guy2\2_BlahBlah\BlahBlah8_01		72616
+	148786818	Blah7	C:\Projekty Unity\Michal-Cywinski-WwiseSpatialAudioDemo\SpatialAudioDemo_WwiseProject\.cache\Windows\SFX\Blah7_1DDA1C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Guys\Talking\Guy1\1_BlahBlah\Blah7		103408
+	153440367	Blah1	C:\Projekty Unity\Michal-Cywinski-WwiseSpatialAudioDemo\SpatialAudioDemo_WwiseProject\.cache\Windows\SFX\Blah1_1DDA1C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Guys\Talking\Guy1\1_BlahBlah\Blah1		336184
+	189407588	Blah5	C:\Projekty Unity\Michal-Cywinski-WwiseSpatialAudioDemo\SpatialAudioDemo_WwiseProject\.cache\Windows\SFX\Blah5_1DDA1C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Guys\Talking\Guy1\1_BlahBlah\Blah5		494172
+	193066789	BlahBlah1	C:\Projekty Unity\Michal-Cywinski-WwiseSpatialAudioDemo\SpatialAudioDemo_WwiseProject\.cache\Windows\SFX\BlahBlah1_A93F634F.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Guys\Talking\Guy2\2_BlahBlah\BlahBlah1		173140
+	214927100	BlahBlah7	C:\Projekty Unity\Michal-Cywinski-WwiseSpatialAudioDemo\SpatialAudioDemo_WwiseProject\.cache\Windows\SFX\BlahBlah7_1DDA1C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Guys\Talking\Guy2\2_BlahBlah\BlahBlah7		202980
+	239230425	BlahBlah2	C:\Projekty Unity\Michal-Cywinski-WwiseSpatialAudioDemo\SpatialAudioDemo_WwiseProject\.cache\Windows\SFX\BlahBlah2_3219B72E.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Guys\Talking\Guy2\2_BlahBlah\BlahBlah2		121304
+	495650387	Blah8	C:\Projekty Unity\Michal-Cywinski-WwiseSpatialAudioDemo\SpatialAudioDemo_WwiseProject\.cache\Windows\SFX\Blah8_1DDA1C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Guys\Talking\Guy1\1_BlahBlah\Blah8		555768
+	589948340	BlahBlah5(6)	C:\Projekty Unity\Michal-Cywinski-WwiseSpatialAudioDemo\SpatialAudioDemo_WwiseProject\.cache\Windows\SFX\BlahBlah5(6)_1DDA1C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Guys\Talking\Guy2\2_BlahBlah\BlahBlah5+6\BlahBlah5(6)		118336
+	621434357	BlahBlah8	C:\Projekty Unity\Michal-Cywinski-WwiseSpatialAudioDemo\SpatialAudioDemo_WwiseProject\.cache\Windows\SFX\BlahBlah8_C3A2B75E.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Guys\Talking\Guy2\2_BlahBlah\BlahBlah8		130448
+	622660266	BlahBlah6(5)	C:\Projekty Unity\Michal-Cywinski-WwiseSpatialAudioDemo\SpatialAudioDemo_WwiseProject\.cache\Windows\SFX\BlahBlah6(5)_1DDA1C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Guys\Talking\Guy2\2_BlahBlah\BlahBlah5+6\BlahBlah6(5)		275604
+	624176652	Blah4	C:\Projekty Unity\Michal-Cywinski-WwiseSpatialAudioDemo\SpatialAudioDemo_WwiseProject\.cache\Windows\SFX\Blah4_1DDA1C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Guys\Talking\Guy1\1_BlahBlah\Blah4		365540
+	696048109	Blah2	C:\Projekty Unity\Michal-Cywinski-WwiseSpatialAudioDemo\SpatialAudioDemo_WwiseProject\.cache\Windows\SFX\Blah2_1DDA1C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Guys\Talking\Guy1\1_BlahBlah\Blah2		312400
+	726095069	BlahBlah9	C:\Projekty Unity\Michal-Cywinski-WwiseSpatialAudioDemo\SpatialAudioDemo_WwiseProject\.cache\Windows\SFX\BlahBlah9_CB49F2E7.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Guys\Talking\Guy2\2_BlahBlah\BlahBlah9		56788
+	829888772	Clang	C:\Projekty Unity\Michal-Cywinski-WwiseSpatialAudioDemo\SpatialAudioDemo_WwiseProject\.cache\Windows\SFX\MetalPlateHit_C6A0FA70.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Player\Test_Sounds\Clang		74896
+	839433507	BlahBlah4	C:\Projekty Unity\Michal-Cywinski-WwiseSpatialAudioDemo\SpatialAudioDemo_WwiseProject\.cache\Windows\SFX\BlahBlah4_66E5F43E.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Guys\Talking\Guy2\2_BlahBlah\BlahBlah4		159024
+	880980772	Blah6	C:\Projekty Unity\Michal-Cywinski-WwiseSpatialAudioDemo\SpatialAudioDemo_WwiseProject\.cache\Windows\SFX\Blah6_1DDA1C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Guys\Talking\Guy1\1_BlahBlah\Blah6		337720
+	982187444	BlahBlah3	C:\Projekty Unity\Michal-Cywinski-WwiseSpatialAudioDemo\SpatialAudioDemo_WwiseProject\.cache\Windows\SFX\BlahBlah3_31CE3CC2.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Guys\Talking\Guy2\2_BlahBlah\BlahBlah3		73512
+	1011024852	Blah3	C:\Projekty Unity\Michal-Cywinski-WwiseSpatialAudioDemo\SpatialAudioDemo_WwiseProject\.cache\Windows\SFX\Blah3_1DDA1C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Guys\Talking\Guy1\1_BlahBlah\Blah3		269636
+

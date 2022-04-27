@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8c2b2f6f7d7b274fba16f121fc6770e, type: 3}
+  m_Name: 0D0029E5-16D4-449B-B29C-B4B64104548C
+  m_EditorClassIdentifier: 
+  objectName: SineFrequency
+  id: 3086214804
+  guid: 0D0029E5-16D4-449B-B29C-B4B64104548C

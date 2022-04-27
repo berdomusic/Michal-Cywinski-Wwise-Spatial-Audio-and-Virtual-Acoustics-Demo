@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8c2b2f6f7d7b274fba16f121fc6770e, type: 3}
+  m_Name: C09092B3-105A-43ED-B61C-61A306A8F8CF
+  m_EditorClassIdentifier: 
+  objectName: PlayerTestSoundsVolume
+  id: 2062604604
+  guid: C09092B3-105A-43ED-B61C-61A306A8F8CF

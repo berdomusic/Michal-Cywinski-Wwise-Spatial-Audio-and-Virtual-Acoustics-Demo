@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{0BBCAAD5-E2BA-443C-A0D3-3C707CC11399}" SchemaVersion="103">
+	<States>
+		<WorkUnit Name="Default Work Unit" ID="{0BBCAAD5-E2BA-443C-A0D3-3C707CC11399}" PersistMode="Standalone">
+			<ChildrenList>
+				<StateGroup Name="Guy_1_Talking" ID="{B40A9029-044A-4BD7-8AD4-E1994E23AFC4}">
+					<PropertyList>
+						<Property Name="DefaultTransitionTime" Type="Real64" Value="0.5"/>
+					</PropertyList>
+					<ChildrenList>
+						<State Name="None" ID="{F58A32B3-524A-41EE-97AD-A42D006431AD}"/>
+						<State Name="Player_Arriving" ID="{3939A4FF-6470-49A2-8DB4-9831F53C394E}"/>
+						<State Name="Player_Leaving" ID="{3608E1CA-510B-47FB-AFE6-86E62E25A8DF}"/>
+						<State Name="Player_Left" ID="{685D69FA-04C2-4DA4-9FE4-50BD93C16B11}"/>
+					</ChildrenList>
+				</StateGroup>
+			</ChildrenList>
+		</WorkUnit>
+	</States>
+</WwiseDocument>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="140">
+	<RootPaths>
+		<ProjectRoot>C:\Projekty Unity\Michal-Cywinski-WwiseSpatialAudioDemo\SpatialAudioDemo_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>C:\Projekty Unity\Michal-Cywinski-WwiseSpatialAudioDemo\SpatialAudioDemo_WwiseProject\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Projekty Unity\Michal-Cywinski-WwiseSpatialAudioDemo\SpatialAudioDemo_WwiseProject\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Projekty Unity\Michal-Cywinski-WwiseSpatialAudioDemo\SpatialAudioDemo_WwiseProject\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX" Hash="3734998154">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+			<IncludedAuxBusses>
+				<AuxBus Id="438105790" Name="Outside" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Outside"/>
+				<AuxBus Id="1359360203" Name="Rooms" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Rooms"/>
+				<AuxBus Id="1819748220" Name="ER" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\ER"/>
+				<AuxBus Id="2192450996" Name="Hangar" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Rooms\Hangar"/>
+				<AuxBus Id="2535232994" Name="Workshop" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Rooms\Workshop"/>
+			</IncludedAuxBusses>
+		</SoundBank>
+		<SoundBank Id="3161908922" Language="SFX" Hash="3213026299">
+			<ObjectPath>\SoundBanks\Default Work Unit\Main</ObjectPath>
+			<ShortName>Main</ShortName>
+			<Path>Main.bnk</Path>
+			<IncludedEvents>
+				<Event Id="68366202" Name="Play_1_BlahBlah" ObjectPath="\Events\Default Work Unit\Main\Play_1_BlahBlah" MaxAttenuation="50.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="148786818" Language="SFX">
+							<ShortName>Blah7.wav</ShortName>
+							<Path>SFX\Blah7_1DDA1C19.wem</Path>
+						</File>
+						<File Id="153440367" Language="SFX">
+							<ShortName>Blah1.wav</ShortName>
+							<Path>SFX\Blah1_1DDA1C19.wem</Path>
+						</File>
+						<File Id="189407588" Language="SFX">
+							<ShortName>Blah5.wav</ShortName>
+							<Path>SFX\Blah5_1DDA1C19.wem</Path>
+						</File>
+						<File Id="495650387" Language="SFX">
+							<ShortName>Blah8.wav</ShortName>
+							<Path>SFX\Blah8_1DDA1C19.wem</Path>
+						</File>
+						<File Id="624176652" Language="SFX">
+							<ShortName>Blah4.wav</ShortName>
+							<Path>SFX\Blah4_1DDA1C19.wem</Path>
+						</File>
+						<File Id="696048109" Language="SFX">
+							<ShortName>Blah2.wav</ShortName>
+							<Path>SFX\Blah2_1DDA1C19.wem</Path>
+						</File>
+						<File Id="880980772" Language="SFX">
+							<ShortName>Blah6.wav</ShortName>
+							<Path>SFX\Blah6_1DDA1C19.wem</Path>
+						</File>
+						<File Id="1011024852" Language="SFX">
+							<ShortName>Blah3.wav</ShortName>
+							<Path>SFX\Blah3_1DDA1C19.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<AuxBusSends>
+						<AuxBus Id="1819748220" Name="ER" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\ER"/>
+					</AuxBusSends>
+				</Event>
+				<Event Id="1369522227" Name="Play_2_BlahBlah" ObjectPath="\Events\Default Work Unit\Main\Play_2_BlahBlah" MaxAttenuation="50.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="36716979" Language="SFX">
+							<ShortName>BlahBlah10.wav</ShortName>
+							<Path>SFX\BlahBlah10_1DDA1C19.wem</Path>
+						</File>
+						<File Id="85203138" Language="SFX">
+							<ShortName>BlahBlah8.wav</ShortName>
+							<Path>SFX\BlahBlah8_DF374631.wem</Path>
+						</File>
+						<File Id="193066789" Language="SFX">
+							<ShortName>BlahBlah1.wav</ShortName>
+							<Path>SFX\BlahBlah1_A93F634F.wem</Path>
+						</File>
+						<File Id="214927100" Language="SFX">
+							<ShortName>BlahBlah7.wav</ShortName>
+							<Path>SFX\BlahBlah7_1DDA1C19.wem</Path>
+						</File>
+						<File Id="239230425" Language="SFX">
+							<ShortName>BlahBlah2.wav</ShortName>
+							<Path>SFX\BlahBlah2_3219B72E.wem</Path>
+						</File>
+						<File Id="589948340" Language="SFX">
+							<ShortName>BlahBlah5(6).wav</ShortName>
+							<Path>SFX\BlahBlah5(6)_1DDA1C19.wem</Path>
+						</File>
+						<File Id="621434357" Language="SFX">
+							<ShortName>BlahBlah8.wav</ShortName>
+							<Path>SFX\BlahBlah8_C3A2B75E.wem</Path>
+						</File>
+						<File Id="622660266" Language="SFX">
+							<ShortName>BlahBlah6(5).wav</ShortName>
+							<Path>SFX\BlahBlah6(5)_1DDA1C19.wem</Path>
+						</File>
+						<File Id="726095069" Language="SFX">
+							<ShortName>BlahBlah9.wav</ShortName>
+							<Path>SFX\BlahBlah9_CB49F2E7.wem</Path>
+						</File>
+						<File Id="839433507" Language="SFX">
+							<ShortName>BlahBlah4.wav</ShortName>
+							<Path>SFX\BlahBlah4_66E5F43E.wem</Path>
+						</File>
+						<File Id="982187444" Language="SFX">
+							<ShortName>BlahBlah3.wav</ShortName>
+							<Path>SFX\BlahBlah3_31CE3CC2.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<AuxBusSends>
+						<AuxBus Id="1819748220" Name="ER" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\ER"/>
+						<AuxBus Id="2192450996" Name="Hangar" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Rooms\Hangar"/>
+					</AuxBusSends>
+				</Event>
+				<Event Id="4255827669" Name="Play_Clang" ObjectPath="\Events\Default Work Unit\Main\Play_Clang" MaxAttenuation="100.000000" DurationType="OneShot" DurationMin="0.378451" DurationMax="0.401418">
+					<IncludedMemoryFiles>
+						<File Id="829888772" Language="SFX">
+							<ShortName>MetalPlateHit.WAV</ShortName>
+							<Path>SFX\MetalPlateHit_C6A0FA70.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3785725400" Name="Play_Clap" ObjectPath="\Events\Default Work Unit\Main\Play_Clap" MaxAttenuation="100.000000" DurationType="OneShot" DurationMin="0.207170" DurationMax="0.281535">
+					<IncludedMemoryFiles>
+						<File Id="41689428" Language="SFX">
+							<ShortName>Clap.wav</ShortName>
+							<Path>SFX\Clap_1DDA1C19.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="4010112737" Name="Play_Sine" ObjectPath="\Events\Default Work Unit\Main\Play_Sine" MaxAttenuation="100.000000" DurationType="Infinite"/>
+				<Event Id="2693257580" Name="Play_Whistle" ObjectPath="\Events\Default Work Unit\Main\Play_Whistle" MaxAttenuation="100.000000" DurationType="OneShot" DurationMin="1.404332" DurationMax="1.879979">
+					<IncludedMemoryFiles>
+						<File Id="16872044" Language="SFX">
+							<ShortName>Whistle.wav</ShortName>
+							<Path>SFX\Whistle_1DDA1C19.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="678554439" Name="Stop_Sine" ObjectPath="\Events\Default Work Unit\Main\Stop_Sine" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+			</IncludedEvents>
+			<GameParameters>
+				<GameParameter Id="2062604604" Name="PlayerTestSoundsVolume" ObjectPath="\Game Parameters\Default Work Unit\PlayerTestSoundsVolume"/>
+				<GameParameter Id="2616111739" Name="GuysTalkingVolume" ObjectPath="\Game Parameters\Default Work Unit\GuysTalkingVolume"/>
+				<GameParameter Id="3086214804" Name="SineFrequency" ObjectPath="\Game Parameters\Default Work Unit\SineFrequency"/>
+			</GameParameters>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

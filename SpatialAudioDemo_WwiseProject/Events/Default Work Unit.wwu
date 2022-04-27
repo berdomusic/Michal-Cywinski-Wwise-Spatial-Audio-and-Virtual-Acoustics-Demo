@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{7829AC81-8FB5-4A2B-828D-128CC4D3A2AA}" SchemaVersion="103">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{7829AC81-8FB5-4A2B-828D-128CC4D3A2AA}" PersistMode="Standalone">
+			<ChildrenList>
+				<Folder Name="Main" ID="{D37BA866-0DAD-4C0A-AA5B-BF1B91BA8F24}" ShortID="873041899">
+					<ChildrenList>
+						<Event Name="Play_2_BlahBlah" ID="{60823326-9BD7-4F85-A546-67CFE337C46F}">
+							<ChildrenList>
+								<Action Name="" ID="{BB65BA9E-6C66-454D-B969-14578B8352AA}" ShortID="150053616">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="2_BlahBlah" ID="{059ABB2F-D8C0-4377-8964-E77FFEC2763C}" WorkUnitID="{CDF1B190-707E-4956-9558-7C0DE9970C67}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_1_BlahBlah" ID="{B0432E29-F5C4-45BA-B0DF-C5B7515574D4}">
+							<ChildrenList>
+								<Action Name="" ID="{5050F0C7-4023-4526-A612-C70C9C2814EE}" ShortID="326063704">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="1_BlahBlah" ID="{2EAC6CDF-D1BD-435E-A50E-C5C49D93B1A7}" WorkUnitID="{CDF1B190-707E-4956-9558-7C0DE9970C67}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_Clap" ID="{555EDFAA-D84A-4B8C-A709-26D2125DA84C}">
+							<ChildrenList>
+								<Action Name="" ID="{0AF6CC29-921B-4CCB-8144-F651FE05F574}" ShortID="141492107">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Clap" ID="{ADA16376-E608-4799-9A42-AE26C9BBDBD6}" WorkUnitID="{CDF1B190-707E-4956-9558-7C0DE9970C67}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_Whistle" ID="{66EDE2F8-F629-424A-83D0-2177D5C2C420}">
+							<ChildrenList>
+								<Action Name="" ID="{1EF9D381-A0F4-4D29-B763-401A61656DD5}" ShortID="912304824">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Whistle" ID="{13DBE2F2-1946-4C31-82F9-6132488C0082}" WorkUnitID="{CDF1B190-707E-4956-9558-7C0DE9970C67}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_Sine" ID="{5440F6E1-A6DC-416D-B3E0-B39F7F993009}">
+							<ChildrenList>
+								<Action Name="" ID="{7BBF20EB-6B41-42C4-85BA-06E4D8717A02}" ShortID="899403456">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Sine" ID="{70C97A45-3831-4FF4-9400-3D1599E2B8C5}" WorkUnitID="{CDF1B190-707E-4956-9558-7C0DE9970C67}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Stop_Sine" ID="{DBC72847-52D7-486F-9466-C79A2A871B7E}">
+							<ChildrenList>
+								<Action Name="" ID="{17CF0634-12F7-4E2D-9E69-614605F8C811}" ShortID="66162506">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="2"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Sine" ID="{70C97A45-3831-4FF4-9400-3D1599E2B8C5}" WorkUnitID="{CDF1B190-707E-4956-9558-7C0DE9970C67}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_Clang" ID="{C9D4AB91-0FE5-4B67-94CD-74742480CFEC}">
+							<ChildrenList>
+								<Action Name="" ID="{DE49D41F-815E-40B4-9178-595DA6F7E0CD}" ShortID="744215666">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Clang" ID="{E5AC1489-D1E8-466F-AC08-A87F399EFB9E}" WorkUnitID="{CDF1B190-707E-4956-9558-7C0DE9970C67}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

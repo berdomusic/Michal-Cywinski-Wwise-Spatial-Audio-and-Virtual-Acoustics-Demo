@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{5B693F27-AAE2-45D5-A8BC-EB800CBD45F1}" SchemaVersion="103">
+	<GameParameters>
+		<WorkUnit Name="Default Work Unit" ID="{5B693F27-AAE2-45D5-A8BC-EB800CBD45F1}" PersistMode="Standalone">
+			<ChildrenList>
+				<GameParameter Name="SineFrequency" ID="{0D0029E5-16D4-449B-B29C-B4B64104548C}">
+					<PropertyList>
+						<Property Name="InitialValue" Type="Real64" Value="440"/>
+						<Property Name="Max" Type="Real64" Value="10000"/>
+						<Property Name="Min" Type="Real64" Value="40"/>
+					</PropertyList>
+				</GameParameter>
+				<GameParameter Name="GuysTalkingVolume" ID="{B4F06E83-8AE1-4077-A3B0-0F51B1CC1FDB}">
+					<PropertyList>
+						<Property Name="InitialValue" Type="Real64" Value="100"/>
+					</PropertyList>
+				</GameParameter>
+				<GameParameter Name="PlayerTestSoundsVolume" ID="{C09092B3-105A-43ED-B61C-61A306A8F8CF}">
+					<PropertyList>
+						<Property Name="InitialValue" Type="Real64" Value="0"/>
+						<Property Name="Max" Type="Real64" Value="12"/>
+						<Property Name="Min" Type="Real64" Value="-12"/>
+					</PropertyList>
+				</GameParameter>
+			</ChildrenList>
+		</WorkUnit>
+	</GameParameters>
+</WwiseDocument>

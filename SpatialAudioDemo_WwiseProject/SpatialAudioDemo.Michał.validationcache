@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationCache Version="1" SchemaVersion="103">
+	<ValidationCacheItem File="C:\Projekty Unity\Michal-Cywinski-WwiseSpatialAudioDemo\SpatialAudioDemo_WwiseProject\Virtual Acoustics\Factory Acoustic Textures.wwu" DateLow="1649266871" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Projekty Unity\Michal-Cywinski-WwiseSpatialAudioDemo\SpatialAudioDemo_WwiseProject\Virtual Acoustics\Default Work Unit.wwu" DateLow="1649319665" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Projekty Unity\Michal-Cywinski-WwiseSpatialAudioDemo\SpatialAudioDemo_WwiseProject\Triggers\Default Work Unit.wwu" DateLow="1649319665" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Projekty Unity\Michal-Cywinski-WwiseSpatialAudioDemo\SpatialAudioDemo_WwiseProject\Switches\Default Work Unit.wwu" DateLow="1649319665" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Projekty Unity\Michal-Cywinski-WwiseSpatialAudioDemo\SpatialAudioDemo_WwiseProject\States\Default Work Unit.wwu" DateLow="1649776706" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Projekty Unity\Michal-Cywinski-WwiseSpatialAudioDemo\SpatialAudioDemo_WwiseProject\SpatialAudioDemo.wproj" DateLow="1649682112" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Projekty Unity\Michal-Cywinski-WwiseSpatialAudioDemo\SpatialAudioDemo_WwiseProject\SpatialAudioDemo.Michał.wsettings" DateLow="1651079552" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Projekty Unity\Michal-Cywinski-WwiseSpatialAudioDemo\SpatialAudioDemo_WwiseProject\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1651066723" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Projekty Unity\Michal-Cywinski-WwiseSpatialAudioDemo\SpatialAudioDemo_WwiseProject\SoundBanks\Default Work Unit.wwu" DateLow="1651055553" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Projekty Unity\Michal-Cywinski-WwiseSpatialAudioDemo\SpatialAudioDemo_WwiseProject\Queries\Factory Queries.wwu" DateLow="1649266871" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Projekty Unity\Michal-Cywinski-WwiseSpatialAudioDemo\SpatialAudioDemo_WwiseProject\Queries\Default Work Unit.wwu" DateLow="1649319665" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Projekty Unity\Michal-Cywinski-WwiseSpatialAudioDemo\SpatialAudioDemo_WwiseProject\Presets\Factory Spatial Audio.wwu" DateLow="1649266871" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Projekty Unity\Michal-Cywinski-WwiseSpatialAudioDemo\SpatialAudioDemo_WwiseProject\Presets\Factory Reflect.wwu" DateLow="1649245770" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Projekty Unity\Michal-Cywinski-WwiseSpatialAudioDemo\SpatialAudioDemo_WwiseProject\Presets\Default Work Unit.wwu" DateLow="1649319665" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Projekty Unity\Michal-Cywinski-WwiseSpatialAudioDemo\SpatialAudioDemo_WwiseProject\Modulators\Default Work Unit.wwu" DateLow="1649319665" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Projekty Unity\Michal-Cywinski-WwiseSpatialAudioDemo\SpatialAudioDemo_WwiseProject\Mixing Sessions\Default Work Unit.wwu" DateLow="1649319665" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Projekty Unity\Michal-Cywinski-WwiseSpatialAudioDemo\SpatialAudioDemo_WwiseProject\Metadata\Default Work Unit.wwu" DateLow="1649319665" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Projekty Unity\Michal-Cywinski-WwiseSpatialAudioDemo\SpatialAudioDemo_WwiseProject\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1651059252" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Projekty Unity\Michal-Cywinski-WwiseSpatialAudioDemo\SpatialAudioDemo_WwiseProject\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1649319665" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Projekty Unity\Michal-Cywinski-WwiseSpatialAudioDemo\SpatialAudioDemo_WwiseProject\Game Parameters\Factory SoundSeed Air Game Syncs.wwu" DateLow="1649245772" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Projekty Unity\Michal-Cywinski-WwiseSpatialAudioDemo\SpatialAudioDemo_WwiseProject\Game Parameters\Factory Motion.wwu" DateLow="1649266923" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Projekty Unity\Michal-Cywinski-WwiseSpatialAudioDemo\SpatialAudioDemo_WwiseProject\Game Parameters\Default Work Unit.wwu" DateLow="1651062137" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Projekty Unity\Michal-Cywinski-WwiseSpatialAudioDemo\SpatialAudioDemo_WwiseProject\Events\Default Work Unit.wwu" DateLow="1651062137" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Projekty Unity\Michal-Cywinski-WwiseSpatialAudioDemo\SpatialAudioDemo_WwiseProject\Effects\Factory Reflect.wwu" DateLow="1649682112" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Projekty Unity\Michal-Cywinski-WwiseSpatialAudioDemo\SpatialAudioDemo_WwiseProject\Effects\Factory McDSP Effects.wwu" DateLow="1649142114" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Projekty Unity\Michal-Cywinski-WwiseSpatialAudioDemo\SpatialAudioDemo_WwiseProject\Effects\Factory Mastering Suite.wwu" DateLow="1643385318" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Projekty Unity\Michal-Cywinski-WwiseSpatialAudioDemo\SpatialAudioDemo_WwiseProject\Effects\Factory iZotope Singleband Distortion.wwu" DateLow="1649266439" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Projekty Unity\Michal-Cywinski-WwiseSpatialAudioDemo\SpatialAudioDemo_WwiseProject\Effects\Factory iZotope Multiband Distortion.wwu" DateLow="1649266439" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Projekty Unity\Michal-Cywinski-WwiseSpatialAudioDemo\SpatialAudioDemo_WwiseProject\Effects\Factory iZotope Hybrid Reverb Effects.wwu" DateLow="1649266439" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Projekty Unity\Michal-Cywinski-WwiseSpatialAudioDemo\SpatialAudioDemo_WwiseProject\Effects\Factory iZotope Filters.wwu" DateLow="1649266439" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Projekty Unity\Michal-Cywinski-WwiseSpatialAudioDemo\SpatialAudioDemo_WwiseProject\Effects\Factory iZotope Dynamics.wwu" DateLow="1649266439" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Projekty Unity\Michal-Cywinski-WwiseSpatialAudioDemo\SpatialAudioDemo_WwiseProject\Effects\Factory iZotope Delay.wwu" DateLow="1649266439" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Projekty Unity\Michal-Cywinski-WwiseSpatialAudioDemo\SpatialAudioDemo_WwiseProject\Effects\Factory iZotope Box Modeler.wwu" DateLow="1649266439" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Projekty Unity\Michal-Cywinski-WwiseSpatialAudioDemo\SpatialAudioDemo_WwiseProject\Effects\Factory Effects.wwu" DateLow="1651058594" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Projekty Unity\Michal-Cywinski-WwiseSpatialAudioDemo\SpatialAudioDemo_WwiseProject\Effects\Factory Auro Headphone.wwu" DateLow="1643385310" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Projekty Unity\Michal-Cywinski-WwiseSpatialAudioDemo\SpatialAudioDemo_WwiseProject\Effects\Default Work Unit.wwu" DateLow="1649319665" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Projekty Unity\Michal-Cywinski-WwiseSpatialAudioDemo\SpatialAudioDemo_WwiseProject\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1651055553" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Projekty Unity\Michal-Cywinski-WwiseSpatialAudioDemo\SpatialAudioDemo_WwiseProject\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1649266871" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Projekty Unity\Michal-Cywinski-WwiseSpatialAudioDemo\SpatialAudioDemo_WwiseProject\Conversion Settings\Default Work Unit.wwu" DateLow="1649433852" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Projekty Unity\Michal-Cywinski-WwiseSpatialAudioDemo\SpatialAudioDemo_WwiseProject\Control Surface Sessions\Default Work Unit.wwu" DateLow="1649319665" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Projekty Unity\Michal-Cywinski-WwiseSpatialAudioDemo\SpatialAudioDemo_WwiseProject\Audio Devices\Default Work Unit.wwu" DateLow="1649319680" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Projekty Unity\Michal-Cywinski-WwiseSpatialAudioDemo\SpatialAudioDemo_WwiseProject\Attenuations\Default Work Unit.wwu" DateLow="1651058594" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Projekty Unity\Michal-Cywinski-WwiseSpatialAudioDemo\SpatialAudioDemo_WwiseProject\Actor-Mixer Hierarchy\Factory Synth One.wwu" DateLow="1649266871" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Projekty Unity\Michal-Cywinski-WwiseSpatialAudioDemo\SpatialAudioDemo_WwiseProject\Actor-Mixer Hierarchy\Factory SoundSeed Air Objects.wwu" DateLow="1649245772" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Projekty Unity\Michal-Cywinski-WwiseSpatialAudioDemo\SpatialAudioDemo_WwiseProject\Actor-Mixer Hierarchy\Factory Motion.wwu" DateLow="1649319680" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Projekty Unity\Michal-Cywinski-WwiseSpatialAudioDemo\SpatialAudioDemo_WwiseProject\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1651079552" DateHigh="0"/>
+</ValidationCache>
