@@ -2,6 +2,8 @@
 Unity ver: 2019.4.33f1
 Wwise ver: 2021.1.5.7749
 
+YT video regarding this demo: https://www.youtube.com/watch?v=CYeWLvv6upI
+
 Please feel free to ask any questions or just get in touch via:
 
 email: kontakt@berdo-music.pl
