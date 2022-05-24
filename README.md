@@ -9,8 +9,11 @@ email: kontakt@berdo-music.pl
 discord: Michał Cywiński#3962
 
 Assets used:
+
 HDRP Default Example Scene
+
 HQ Hangar Free
+
 Mini First Person Controller
 
  <b>VERY IMPORTANT:</b> This project does NOT have a WwiseReflect licence and because of that it will work properly ONLY with Wwise Authoring connected.
