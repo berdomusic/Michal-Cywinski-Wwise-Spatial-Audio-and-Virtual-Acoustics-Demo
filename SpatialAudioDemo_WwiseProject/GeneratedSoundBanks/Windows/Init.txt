@@ -1,12 +1,3 @@
-State Group	ID	Name			Wwise Object Path	Notes
-	1587780465	Guy_1_Talking			\Default Work Unit\Guy_1_Talking	
-
-State	ID	Name	State Group			Notes
-	4642798	Player_Left	Guy_1_Talking			
-	748895195	None	Guy_1_Talking			
-	3717807387	Player_Leaving	Guy_1_Talking			
-	3783004065	Player_Arriving	Guy_1_Talking			
-
 Game Parameter	ID	Name			Wwise Object Path	Notes
 	504532776	Brick			\Factory Acoustic Textures\Textures\Brick	
 	513139656	Mountain			\Factory Acoustic Textures\Textures\Mountain	
@@ -24,7 +15,6 @@ Game Parameter	ID	Name			Wwise Object Path	Notes
 	4262522749	Wood_Bright			\Factory Acoustic Textures\Textures\Wood_Bright	
 
 Audio Bus	ID	Name			Wwise Object Path	Notes
-	985987111	Motion Factory Bus			\Default Work Unit\Motion Factory Bus	
 	1041286025	Guys			\Default Work Unit\Master Audio Bus\Guys	
 	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
 	4083419649	Player_Sounds			\Default Work Unit\Master Audio Bus\Player_Sounds	
@@ -37,11 +27,9 @@ Auxiliary Bus	ID	Name			Wwise Object Path	Notes
 	2535232994	Workshop			\Default Work Unit\Master Audio Bus\Rooms\Workshop	
 
 Effect plug-ins	ID	Name	Type				Notes
-	415841907	Space_Garage	Wwise RoomVerb			
+	325538498	Wwise RoomVerb (Custom)	Wwise RoomVerb			
 	847711044	Room_Medium (Custom)	Wwise RoomVerb			
-	3900114836	Metal_Hangar	Wwise RoomVerb			
 
 Audio Devices	ID	Name	Type				Notes
-	2317455096	No_Output	No Output			
 	3859886410	System	System			
 

@@ -303,7 +303,7 @@ MonoBehaviour:
     ParentPath: Master-Mixer Hierarchy\Default Work Unit
     guid: df7748d98fd1e745a9485198d9bdfb6b
     GuidInternal: 
-    m_lastTime: -8585505476329043006
+    m_lastTime: -8585482197977091747
     List:
     - name: ER
       guid: da15892338ddb142a244abe0ef5715b9
@@ -373,20 +373,6 @@ MonoBehaviour:
         ObjectType: 2
         guid: d8a41415a61d2a41a17e75ca0c2149f3
       Path: Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus
-    - name: Motion Factory Bus
-      guid: c6b9f92af16ee946b5f2e30c9e602c74
-      id: 985987111
-      PathAndIcons:
-      - ElementName: Master-Mixer Hierarchy
-        ObjectType: 5
-        guid: 00000000000000000000000000000000
-      - ElementName: Default Work Unit
-        ObjectType: 12
-        guid: df7748d98fd1e745a9485198d9bdfb6b
-      - ElementName: Motion Factory Bus
-        ObjectType: 2
-        guid: c6b9f92af16ee946b5f2e30c9e602c74
-      Path: Master-Mixer Hierarchy\Default Work Unit\Motion Factory Bus
     - name: Outside
       guid: bd08f4e096037b4f9614020bc28bb472
       id: 438105790
@@ -534,7 +520,7 @@ MonoBehaviour:
         ObjectType: 3
         guid: 292e43b0c4f5ba45b0dfc5b7515574d4
       Path: Events\Default Work Unit\Main\Play_1_BlahBlah
-      maxAttenuation: 50
+      maxAttenuation: 45
       maxDuration: -1
       minDuration: -1
     - name: Play_2_BlahBlah
@@ -554,7 +540,7 @@ MonoBehaviour:
         ObjectType: 3
         guid: 26338260d79b854fa54667cfe337c46f
       Path: Events\Default Work Unit\Main\Play_2_BlahBlah
-      maxAttenuation: 50
+      maxAttenuation: 45
       maxDuration: -1
       minDuration: -1
     - name: Play_Clang
@@ -713,200 +699,6 @@ MonoBehaviour:
         ObjectType: 13
         guid: e529000dd4169b44b29cb4b64104548c
       Path: Game Parameters\Default Work Unit\SineFrequency
-  - PhysicalPath: Game Parameters\Factory Motion.wwu
-    PathAndIcons:
-    - ElementName: Game Parameters
-      ObjectType: 5
-      guid: 00000000000000000000000000000000
-    - ElementName: Factory Motion
-      ObjectType: 12
-      guid: 225213d7dbd1d042adc0930743567776
-    ParentPath: Game Parameters\Factory Motion
-    guid: 225213d7dbd1d042adc0930743567776
-    GuidInternal: 
-    m_lastTime: -8585523399622855800
-    List:
-    - name: Playback_Rate
-      guid: e37e38283ac11643b9c3db5c521624af
-      id: 1524500807
-      PathAndIcons:
-      - ElementName: Game Parameters
-        ObjectType: 5
-        guid: 00000000000000000000000000000000
-      - ElementName: Factory Motion
-        ObjectType: 12
-        guid: 225213d7dbd1d042adc0930743567776
-      - ElementName: Playback_Rate
-        ObjectType: 13
-        guid: e37e38283ac11643b9c3db5c521624af
-      Path: Game Parameters\Factory Motion\Playback_Rate
-    - name: RPM
-      guid: 05aa129177f5fd449f4e4424158129e6
-      id: 796049864
-      PathAndIcons:
-      - ElementName: Game Parameters
-        ObjectType: 5
-        guid: 00000000000000000000000000000000
-      - ElementName: Factory Motion
-        ObjectType: 12
-        guid: 225213d7dbd1d042adc0930743567776
-      - ElementName: RPM
-        ObjectType: 13
-        guid: 05aa129177f5fd449f4e4424158129e6
-      Path: Game Parameters\Factory Motion\RPM
-  - PhysicalPath: Game Parameters\Factory SoundSeed Air Game Syncs.wwu
-    PathAndIcons:
-    - ElementName: Game Parameters
-      ObjectType: 5
-      guid: 00000000000000000000000000000000
-    - ElementName: Factory SoundSeed Air Game Syncs
-      ObjectType: 12
-      guid: 5577163b42fb8b4598bf96f557afb3b9
-    ParentPath: Game Parameters\Factory SoundSeed Air Game Syncs
-    guid: 5577163b42fb8b4598bf96f557afb3b9
-    GuidInternal: 
-    m_lastTime: -8585523611125528654
-    List:
-    - name: SS_Air_Fear
-      guid: 59062ef746431c4ea1b1dab46a05101e
-      id: 1351367891
-      PathAndIcons:
-      - ElementName: Game Parameters
-        ObjectType: 5
-        guid: 00000000000000000000000000000000
-      - ElementName: Factory SoundSeed Air Game Syncs
-        ObjectType: 12
-        guid: 5577163b42fb8b4598bf96f557afb3b9
-      - ElementName: SS_Air_Fear
-        ObjectType: 13
-        guid: 59062ef746431c4ea1b1dab46a05101e
-      Path: Game Parameters\Factory SoundSeed Air Game Syncs\SS_Air_Fear
-    - name: SS_Air_Freefall
-      guid: 37fe2d2f9e4f944d83d853cca39781ad
-      id: 3002758120
-      PathAndIcons:
-      - ElementName: Game Parameters
-        ObjectType: 5
-        guid: 00000000000000000000000000000000
-      - ElementName: Factory SoundSeed Air Game Syncs
-        ObjectType: 12
-        guid: 5577163b42fb8b4598bf96f557afb3b9
-      - ElementName: SS_Air_Freefall
-        ObjectType: 13
-        guid: 37fe2d2f9e4f944d83d853cca39781ad
-      Path: Game Parameters\Factory SoundSeed Air Game Syncs\SS_Air_Freefall
-    - name: SS_Air_Fury
-      guid: dc79aea23acaba4696529986c322a87b
-      id: 1029930033
-      PathAndIcons:
-      - ElementName: Game Parameters
-        ObjectType: 5
-        guid: 00000000000000000000000000000000
-      - ElementName: Factory SoundSeed Air Game Syncs
-        ObjectType: 12
-        guid: 5577163b42fb8b4598bf96f557afb3b9
-      - ElementName: SS_Air_Fury
-        ObjectType: 13
-        guid: dc79aea23acaba4696529986c322a87b
-      Path: Game Parameters\Factory SoundSeed Air Game Syncs\SS_Air_Fury
-    - name: SS_Air_Month
-      guid: 45b4e209a3c47f44b3ca818a1d925ef7
-      id: 2648548617
-      PathAndIcons:
-      - ElementName: Game Parameters
-        ObjectType: 5
-        guid: 00000000000000000000000000000000
-      - ElementName: Factory SoundSeed Air Game Syncs
-        ObjectType: 12
-        guid: 5577163b42fb8b4598bf96f557afb3b9
-      - ElementName: SS_Air_Month
-        ObjectType: 13
-        guid: 45b4e209a3c47f44b3ca818a1d925ef7
-      Path: Game Parameters\Factory SoundSeed Air Game Syncs\SS_Air_Month
-    - name: SS_Air_Presence
-      guid: 1a81b7e32f7b0f49b44f5fe51b468041
-      id: 3847924954
-      PathAndIcons:
-      - ElementName: Game Parameters
-        ObjectType: 5
-        guid: 00000000000000000000000000000000
-      - ElementName: Factory SoundSeed Air Game Syncs
-        ObjectType: 12
-        guid: 5577163b42fb8b4598bf96f557afb3b9
-      - ElementName: SS_Air_Presence
-        ObjectType: 13
-        guid: 1a81b7e32f7b0f49b44f5fe51b468041
-      Path: Game Parameters\Factory SoundSeed Air Game Syncs\SS_Air_Presence
-    - name: SS_Air_RPM
-      guid: ab9048a3d5b92645a64d5290c43ef2dc
-      id: 822163944
-      PathAndIcons:
-      - ElementName: Game Parameters
-        ObjectType: 5
-        guid: 00000000000000000000000000000000
-      - ElementName: Factory SoundSeed Air Game Syncs
-        ObjectType: 12
-        guid: 5577163b42fb8b4598bf96f557afb3b9
-      - ElementName: SS_Air_RPM
-        ObjectType: 13
-        guid: ab9048a3d5b92645a64d5290c43ef2dc
-      Path: Game Parameters\Factory SoundSeed Air Game Syncs\SS_Air_RPM
-    - name: SS_Air_Size
-      guid: efeb291393a12e47a38c64668b494879
-      id: 3074696722
-      PathAndIcons:
-      - ElementName: Game Parameters
-        ObjectType: 5
-        guid: 00000000000000000000000000000000
-      - ElementName: Factory SoundSeed Air Game Syncs
-        ObjectType: 12
-        guid: 5577163b42fb8b4598bf96f557afb3b9
-      - ElementName: SS_Air_Size
-        ObjectType: 13
-        guid: efeb291393a12e47a38c64668b494879
-      Path: Game Parameters\Factory SoundSeed Air Game Syncs\SS_Air_Size
-    - name: SS_Air_Storm
-      guid: db8c3fe9d1063747acaf7cd44bbed783
-      id: 3715662592
-      PathAndIcons:
-      - ElementName: Game Parameters
-        ObjectType: 5
-        guid: 00000000000000000000000000000000
-      - ElementName: Factory SoundSeed Air Game Syncs
-        ObjectType: 12
-        guid: 5577163b42fb8b4598bf96f557afb3b9
-      - ElementName: SS_Air_Storm
-        ObjectType: 13
-        guid: db8c3fe9d1063747acaf7cd44bbed783
-      Path: Game Parameters\Factory SoundSeed Air Game Syncs\SS_Air_Storm
-    - name: SS_Air_TimeOfDay
-      guid: 2ca76f537e8c8b4cae03ef34fdadc314
-      id: 3203397129
-      PathAndIcons:
-      - ElementName: Game Parameters
-        ObjectType: 5
-        guid: 00000000000000000000000000000000
-      - ElementName: Factory SoundSeed Air Game Syncs
-        ObjectType: 12
-        guid: 5577163b42fb8b4598bf96f557afb3b9
-      - ElementName: SS_Air_TimeOfDay
-        ObjectType: 13
-        guid: 2ca76f537e8c8b4cae03ef34fdadc314
-      Path: Game Parameters\Factory SoundSeed Air Game Syncs\SS_Air_TimeOfDay
-    - name: SS_Air_Turbulence
-      guid: 197ba8edaa73a0409f192073606db710
-      id: 4160247818
-      PathAndIcons:
-      - ElementName: Game Parameters
-        ObjectType: 5
-        guid: 00000000000000000000000000000000
-      - ElementName: Factory SoundSeed Air Game Syncs
-        ObjectType: 12
-        guid: 5577163b42fb8b4598bf96f557afb3b9
-      - ElementName: SS_Air_Turbulence
-        ObjectType: 13
-        guid: 197ba8edaa73a0409f192073606db710
-      Path: Game Parameters\Factory SoundSeed Air Game Syncs\SS_Air_Turbulence
   StateWwu:
   - PhysicalPath: States\Default Work Unit.wwu
     PathAndIcons:

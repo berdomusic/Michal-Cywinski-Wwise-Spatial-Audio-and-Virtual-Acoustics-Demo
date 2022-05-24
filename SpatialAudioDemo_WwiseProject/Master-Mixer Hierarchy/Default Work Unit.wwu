@@ -47,7 +47,23 @@
 										<Property Name="ListenerRelativeRouting" Type="bool" Value="True"/>
 										<Property Name="UseGameAuxSends" Type="bool" Value="True"/>
 									</PropertyList>
-									<ReferenceList/>
+									<ReferenceList>
+										<Reference Name="Effect0">
+											<Custom>
+												<Effect Name="Wwise RoomVerb (Custom)" ID="{3D23FEB6-29F0-4E36-A5C1-CB6427101AB5}" ShortID="325538498" PluginName="Wwise RoomVerb" CompanyID="0" PluginID="118" PluginType="3">
+													<PropertyList>
+														<Property Name="Density" Type="Real32" Value="87"/>
+														<Property Name="ERFrontBackDelay" Type="Real32" Value="100"/>
+														<Property Name="ERLevel" Type="Real32" Value="-5"/>
+														<Property Name="ERPattern" Type="int32" Value="30"/>
+														<Property Name="Quality" Type="int32" Value="16"/>
+														<Property Name="ReverbLevel" Type="Real32" Value="-18"/>
+														<Property Name="RoomSize" Type="Real32" Value="100"/>
+													</PropertyList>
+												</Effect>
+											</Custom>
+										</Reference>
+									</ReferenceList>
 									<ObjectLists/>
 								</AuxBus>
 								<AuxBus Name="Workshop" ID="{4AC4C85D-1949-4DDC-85F9-8CF9ED327DC6}">

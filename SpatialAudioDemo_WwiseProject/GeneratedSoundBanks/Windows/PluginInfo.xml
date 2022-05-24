@@ -4,7 +4,5 @@
 		<Plugin Name="Wwise Sine" ID="6553602" DLL="AkSineTone" StaticLib="AkSineSource"/>
 		<Plugin Name="Wwise RoomVerb" ID="7733251" DLL="AkRoomVerb" StaticLib="AkRoomVerbFX"/>
 		<Plugin Name="System" ID="11403271"/>
-		<Plugin Name="No Output" ID="11862023"/>
-		<Plugin Name="Wwise Motion" ID="33226759" DLL="AkMotion" StaticLib="AkMotionSink"/>
 	</Plugins>
 </PluginInfo>

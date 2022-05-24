@@ -33,41 +33,7 @@
 					</PropertyList>
 					<ConversionPluginInfoList>
 						<ConversionPluginInfo Platform="Windows">
-							<ConversionPlugin Name="" ID="{5E057E54-8B8C-4319-A1B8-FBF9E7E68C68}" PluginName="PCM" CompanyID="0" PluginID="1"/>
-						</ConversionPluginInfo>
-					</ConversionPluginInfoList>
-				</Conversion>
-				<Conversion Name="Talking" ID="{6E951144-CC78-48B6-B8D4-FDE472AC2B8B}">
-					<PropertyList>
-						<Property Name="Channels" Type="int32">
-							<ValueList>
-								<Value Platform="Windows">4</Value>
-							</ValueList>
-						</Property>
-						<Property Name="LRMix" Type="Real64">
-							<ValueList>
-								<Value Platform="Windows">0</Value>
-							</ValueList>
-						</Property>
-						<Property Name="MaxSampleRate" Type="int32">
-							<ValueList>
-								<Value Platform="Windows">0</Value>
-							</ValueList>
-						</Property>
-						<Property Name="MinSampleRate" Type="int32">
-							<ValueList>
-								<Value Platform="Windows">0</Value>
-							</ValueList>
-						</Property>
-						<Property Name="SampleRate" Type="int32">
-							<ValueList>
-								<Value Platform="Windows">2</Value>
-							</ValueList>
-						</Property>
-					</PropertyList>
-					<ConversionPluginInfoList>
-						<ConversionPluginInfo Platform="Windows">
-							<ConversionPlugin Name="" ID="{21ACCC20-F6CB-4CF7-A4BE-307477B04453}" PluginName="PCM" CompanyID="0" PluginID="1"/>
+							<ConversionPlugin Name="" ID="{F33BC9CE-5B1C-4448-9065-57CD71880A2D}" PluginName="PCM" CompanyID="0" PluginID="1"/>
 						</ConversionPluginInfo>
 					</ConversionPluginInfoList>
 				</Conversion>

@@ -15,7 +15,7 @@
 								<Value>True</Value>
 							</ValueList>
 						</Property>
-						<Property Name="RadiusMax" Type="Real64" Value="50"/>
+						<Property Name="RadiusMax" Type="Real64" Value="45"/>
 					</PropertyList>
 					<CurveUsageInfoList>
 						<VolumeDryUsage>
@@ -32,7 +32,7 @@
 											<SegmentShape>Log2</SegmentShape>
 										</Point>
 										<Point>
-											<XPos>50</XPos>
+											<XPos>45</XPos>
 											<YPos>-200</YPos>
 											<Flags>37</Flags>
 										</Point>
@@ -56,7 +56,7 @@
 											<Flags>5</Flags>
 										</Point>
 										<Point>
-											<XPos>50</XPos>
+											<XPos>45</XPos>
 											<YPos>-200</YPos>
 											<Flags>37</Flags>
 										</Point>
@@ -75,10 +75,10 @@
 											<XPos>0</XPos>
 											<YPos>0</YPos>
 											<Flags>5</Flags>
-											<SegmentShape>SCurve</SegmentShape>
+											<SegmentShape>Log2</SegmentShape>
 										</Point>
 										<Point>
-											<XPos>50</XPos>
+											<XPos>45</XPos>
 											<YPos>71</YPos>
 											<Flags>37</Flags>
 										</Point>
@@ -97,10 +97,10 @@
 											<XPos>0</XPos>
 											<YPos>0</YPos>
 											<Flags>5</Flags>
-											<SegmentShape>SCurve</SegmentShape>
+											<SegmentShape>Log2</SegmentShape>
 										</Point>
 										<Point>
-											<XPos>50</XPos>
+											<XPos>45</XPos>
 											<YPos>56</YPos>
 											<Flags>37</Flags>
 										</Point>
@@ -121,7 +121,7 @@
 											<Flags>5</Flags>
 										</Point>
 										<Point>
-											<XPos>50</XPos>
+											<XPos>45</XPos>
 											<YPos>14.37126</YPos>
 											<Flags>37</Flags>
 										</Point>
@@ -142,7 +142,7 @@
 											<Flags>5</Flags>
 										</Point>
 										<Point>
-											<XPos>50</XPos>
+											<XPos>45</XPos>
 											<YPos>0</YPos>
 											<Flags>37</Flags>
 										</Point>

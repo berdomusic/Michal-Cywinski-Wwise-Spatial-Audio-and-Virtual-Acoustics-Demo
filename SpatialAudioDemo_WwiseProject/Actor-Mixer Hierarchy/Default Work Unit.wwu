@@ -211,7 +211,6 @@
 									<PropertyList>
 										<Property Name="3DSpatialization" Type="int16" Value="2"/>
 										<Property Name="EnableDiffraction" Type="bool" Value="True"/>
-										<Property Name="OverrideConversion" Type="bool" Value="True"/>
 										<Property Name="OverrideEarlyReflections" Type="bool" Value="True"/>
 										<Property Name="OverridePositioning" Type="bool" Value="True"/>
 										<Property Name="Volume" Type="Real64">
@@ -251,7 +250,7 @@
 											<ObjectRef Name="Talking" ID="{DA08573D-3CAB-4082-A735-715680A00D77}" WorkUnitID="{A5524A46-2AB8-424B-8A3E-374E98C7787C}"/>
 										</Reference>
 										<Reference Name="Conversion">
-											<ObjectRef Name="Talking" ID="{6E951144-CC78-48B6-B8D4-FDE472AC2B8B}" WorkUnitID="{5A502F6A-8739-4069-9566-980DC5F672F8}"/>
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A502F6A-8739-4069-9566-980DC5F672F8}"/>
 										</Reference>
 										<Reference Name="OutputBus">
 											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D94877DF-D18F-45E7-A948-5198D9BDFB6B}"/>
@@ -306,7 +305,7 @@
 															<ObjectRef Name="Talking" ID="{DA08573D-3CAB-4082-A735-715680A00D77}" WorkUnitID="{A5524A46-2AB8-424B-8A3E-374E98C7787C}"/>
 														</Reference>
 														<Reference Name="Conversion">
-															<ObjectRef Name="Talking" ID="{6E951144-CC78-48B6-B8D4-FDE472AC2B8B}" WorkUnitID="{5A502F6A-8739-4069-9566-980DC5F672F8}"/>
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A502F6A-8739-4069-9566-980DC5F672F8}"/>
 														</Reference>
 														<Reference Name="OutputBus">
 															<ObjectRef Name="Guys" ID="{31B7F735-8E07-4294-954C-FB843BB9A9AC}" WorkUnitID="{D94877DF-D18F-45E7-A948-5198D9BDFB6B}"/>
@@ -511,7 +510,7 @@
 												<Property Name="3DSpatialization" Type="int16" Value="2"/>
 												<Property Name="Highpass" Type="int16">
 													<ValueList>
-														<Value>20</Value>
+														<Value>31</Value>
 													</ValueList>
 												</Property>
 												<Property Name="Pitch" Type="int32">
@@ -522,7 +521,7 @@
 												<Property Name="UseGameAuxSends" Type="bool" Value="True"/>
 												<Property Name="Volume" Type="Real64">
 													<ValueList>
-														<Value>-3</Value>
+														<Value>-7</Value>
 													</ValueList>
 												</Property>
 											</PropertyList>
@@ -531,7 +530,7 @@
 													<ObjectRef Name="Talking" ID="{DA08573D-3CAB-4082-A735-715680A00D77}" WorkUnitID="{A5524A46-2AB8-424B-8A3E-374E98C7787C}"/>
 												</Reference>
 												<Reference Name="Conversion">
-													<ObjectRef Name="Talking" ID="{6E951144-CC78-48B6-B8D4-FDE472AC2B8B}" WorkUnitID="{5A502F6A-8739-4069-9566-980DC5F672F8}"/>
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A502F6A-8739-4069-9566-980DC5F672F8}"/>
 												</Reference>
 												<Reference Name="OutputBus">
 													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D94877DF-D18F-45E7-A948-5198D9BDFB6B}"/>
@@ -551,7 +550,7 @@
 															<ObjectRef Name="Talking" ID="{DA08573D-3CAB-4082-A735-715680A00D77}" WorkUnitID="{A5524A46-2AB8-424B-8A3E-374E98C7787C}"/>
 														</Reference>
 														<Reference Name="Conversion">
-															<ObjectRef Name="Talking" ID="{6E951144-CC78-48B6-B8D4-FDE472AC2B8B}" WorkUnitID="{5A502F6A-8739-4069-9566-980DC5F672F8}"/>
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A502F6A-8739-4069-9566-980DC5F672F8}"/>
 														</Reference>
 														<Reference Name="OutputBus">
 															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D94877DF-D18F-45E7-A948-5198D9BDFB6B}"/>
@@ -991,9 +990,6 @@
 										</Property>
 										<Property Name="OverrideOutput" Type="bool" Value="True"/>
 										<Property Name="Volume" Type="Real64">
-											<ValueList>
-												<Value>3</Value>
-											</ValueList>
 											<RTPCList>
 												<RTPC Name="" ID="{3FFF74B6-E387-4BC6-84B5-5C2FA788269C}" ShortID="351604844">
 													<ReferenceList>
@@ -1162,6 +1158,11 @@
 										<Sound Name="Sine" ID="{70C97A45-3831-4FF4-9400-3D1599E2B8C5}" ShortID="940717570">
 											<PropertyList>
 												<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
+												<Property Name="Volume" Type="Real64">
+													<ValueList>
+														<Value>-2</Value>
+													</ValueList>
+												</Property>
 											</PropertyList>
 											<ReferenceList>
 												<Reference Name="Conversion">
